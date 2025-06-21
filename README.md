@@ -27,8 +27,8 @@ Diseñar un sistema de bajo costo capaz de detectar signos de somnolencia (como 
 |--------|--------------------------------------|-------------|
 | 1 | Diseño inicial del case v.1 | Diego Romero |
 | 2 | Programación de la lectura de somnolencia | Leonardo Gómez |
-| 3 | Prueba de integración hardware-software | Giovanny De la cruz |
-| 3 | Estadistica de datos | Andrea Luján |
+| 3 | Prueba de integración hardware-software | Gioanny De la cruz |
+| 3 | Estadistica de datos | Andrea Muñoz Luján Ripoll |
 
 ---
 
