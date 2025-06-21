@@ -21,6 +21,17 @@ Diseñar un sistema de bajo costo capaz de detectar signos de somnolencia (como 
 
 ---
 
+📅 Avances semanales
+
+| Semana | Actividad realizada | Responsable |
+|--------|--------------------------------------|-------------|
+| 1 | Diseño inicial del case v.1 | Diego Romero |
+| 2 | Programación de la lectura de somnolencia | Leonardo Gómez |
+| 3 | Prueba de integración hardware-software | Giovanny De la cruz |
+| 3 | Estadistica de datos | Andrea Luján |
+
+---
+
 ## 🔌 Componentes Utilizados
 
 | Componente               | Función                                      |
